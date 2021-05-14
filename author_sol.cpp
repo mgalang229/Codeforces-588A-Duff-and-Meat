@@ -17,7 +17,7 @@ int main() {
 		// store the minimum value between 'cost' and 'p'
 		// to make sure that we get the lowest price, and
 		// once we get it, we will use that price of that day
-		// to buy all the meat that we can since it was mentioned
+		// to buy all the meat that we need since it was mentioned
 		// in the problem statement that "he can keep the meat he
 		// has for the future"
 		cost = min(cost, p);
